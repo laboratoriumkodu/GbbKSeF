@@ -9,3 +9,4 @@ Wymagania: .Net Framework Core 6.0.202
 
 Dodatek ekstra: możliwość pobrania wysłanej faktury i wygenerowania faktury korygującej "do zera" dla niej (i ew. wysłania do KSeF)
 
+https://ksef-test.mf.gov.pl/web/login
