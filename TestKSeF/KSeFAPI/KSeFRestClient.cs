@@ -962,7 +962,7 @@ namespace KSeFAPI
             uri.AppendPath("/online/Invoice/Get/", false);
             uri.AppendPath(kSeFReferenceNumber, true);
             request.Uri = uri;
-            request.Headers.Add("Accept", "application/json");
+            request.Headers.Add("Accept", "application/octet-stream");
             // !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
             request.Headers.Add("SessionToken", OurSessionToken);
             // !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
